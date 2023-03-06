@@ -1,4 +1,4 @@
-# Drusk, Inc
+# Drusk, 
 
 ## Table of contents
 
@@ -47,7 +47,7 @@ For more information about what support covers, please see our (FAQs)[https://cr
 ## Terms and License
 
 - Released under the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
-- Copyright 2023 [Cruip](https://cruip.com/).
+- Copyright 2023 [Drusk, Inc](https://drusk.io/).
 - Use it for personal and commercial projects, but please don’t republish, redistribute, or resell the template.
 - Attribution is not required, although it is really appreciated.
 
